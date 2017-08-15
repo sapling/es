@@ -1,0 +1,1 @@
+0 1 * * * root /opt/isys/yz-es/es-forcemerge.sh >> /data/logs/es-forcemerge-main.log 2>&1

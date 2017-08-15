@@ -1,0 +1,6 @@
+#daily_forcemerge_index_max_segments2=(daily_forcemerge_index_max_segments2_1-%Y.%m.%d daily_forcemerge_index_max_segments2_2-%Y.%m.%d)
+daily_forcemerge_index_max_segments2=()
+#daily_forcemerge_index_max_segments5=(daily_forcemerge_index_max_segments5_1-%Y.%m.%d daily_forcemerge_index_max_segments5_2-%Y.%m.%d)
+daily_forcemerge_index_max_segments5=()
+#monthly_forcemerge_index_max_segments2=(monthly_forcemerge_index_max_segments2_1-%Y.%m monthly_forcemerge_index_max_segments2_2-%Y.%m)
+monthly_forcemerge_index_max_segments2=()

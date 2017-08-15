@@ -1,0 +1,4 @@
+#daily_index_delete=(7:daily_index_save7day-%Y.%m.%d 30:daily_index_save30day-%Y.%m.%d)
+daily_index_delete=()
+#monthly_index_delete=(1:monthly_index_save1month-%Y.%m 6:monthly_index_save6month-%Y.%m)
+monthly_index_delete=()
