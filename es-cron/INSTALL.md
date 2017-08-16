@@ -9,3 +9,6 @@
     mkdir -p /data/logs/
 
 ## 3. 参考sample，创建配置文件es-forcemerge.conf、es-indexdelete.conf
+
+## 4. 如果ES所在机器不是本机，需要加入设置环境设置
+    export ES_HOST=localhost ES_PORT=9200 && xx.sh
