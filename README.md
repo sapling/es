@@ -4,3 +4,6 @@
     bin  # 管理工具
     es-cron  # 定时管理任务，forcemerge和indexdelete
     zabbix  # Elasticsearch zabbix采集脚本和监控模板，grafana zabbix插件dashboard模板
+
+## 使用说明
+> https://github.com/sapling/es/wiki
